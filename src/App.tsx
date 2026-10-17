@@ -692,7 +692,6 @@ function App() {
                 <img
                   src="/mesgana-wolde-portrait.png"
                   alt="Professional portrait of Mesgana Wolde"
-                  onError={(e) => {e.currentTarget.style.display = 'none'}}
                 />
                 <div className="portrait-status">
                   <span />
