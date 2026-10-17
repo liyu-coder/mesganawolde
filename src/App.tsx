@@ -1,4 +1,3 @@
-import portraitImage from "../public/mesgana-wolde-portrait.png"
 import {
   ArrowDown,
   ArrowRight,
@@ -690,7 +689,7 @@ function App() {
               <div className="portrait-glow" />
               <div className="portrait-frame">
                 <img
-                  src={portraitImage}
+                  src="/mesgana-wolde-portrait.png"
                   alt="Professional portrait of Mesgana Wolde"
                 />
                 <div className="portrait-status">
