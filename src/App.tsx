@@ -694,7 +694,6 @@ function App() {
                   alt="Professional portrait of Mesgana Wolde"
                   onError={(e) => {e.currentTarget.style.display = 'none'}}
                 />
-                />
                 <div className="portrait-status">
                   <span />
                   Professional profile
